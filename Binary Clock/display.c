@@ -1,4 +1,5 @@
-
+/*
+   Christopher Yonek
    CSC:210 - Dr. Roosen
    Project 2: Binary Clock, display.c
    3/18/2022
