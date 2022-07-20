@@ -80,7 +80,7 @@ int main(){
 
 /* Write a program that will read a string from stdin. The program should remove from the
  string all characters which are not digits and print the remainder containing only the 
- numeric characters. /*
+ numeric characters. */
  
 #include <stdio.h>
 int main(){   char string[1000]; //As maximum size specified is 1000
