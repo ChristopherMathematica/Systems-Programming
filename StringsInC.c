@@ -63,7 +63,7 @@ void together(const char *first, const char *last, int n) {
 
 /* This function consumes a string argument and returns 1 if the string is
 in the form of a US Social Security Number (SSN), 0 otherwise. 
-/*
+*/
 
 int is_ssn(char str[])
 {
