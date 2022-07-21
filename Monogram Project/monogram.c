@@ -1,6 +1,7 @@
-
+ //Name: Christopher Yonek
  //CISC210: Monogram Project
  //Dr. Roosen
+ //Date: 2/24/2022
  #include <stdio.h>
  #include <unistd.h>
  #include <ncurses.h>
